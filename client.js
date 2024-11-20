@@ -2,11 +2,15 @@
  * #1 Hobbies
  * ----------
  * 1. Create an array of group member hobbies
- * 2. Write a loop that logs out each hobby
+ * * 2. Write a loop that logs out each hobby
  * 3. After the loop, log out the total number of
  *    hobbies
  */
+let hobbies = ['reading', 'cooking'];
 
+for (let i = 0; i < hobbies.length; i++) {
+     console.log(hobbies);
+}
 
 // Example output
 // 1. swimming
